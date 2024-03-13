@@ -2,9 +2,7 @@ Project name:
 - JukeBox
 Who Are We:
 - Yavuz M. Bozkurt
-- Cart
-- Curt
-- Vs.
+
 
 Project Details:
 - This is a simple and basic JukeBox app simulation.
